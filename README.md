@@ -1,3 +1,2 @@
-# React JS fundamentals by nomad coder tutorial
-
-## my first react movie app 
+# React JS fundamentals
+react movie app by nomad coder tutorial
